@@ -6,7 +6,7 @@ namespace Kodlama_io
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello World!!!!!");
         }
     }
 }
