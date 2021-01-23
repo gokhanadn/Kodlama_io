@@ -17,7 +17,7 @@ namespace OOP1
                 Id = 2,
                 CategoryId = 5,
                 UnitInStock = 5,
-                ProductName = "Kalem",
+                ProductName = "Kalemm",
                 UnitPrice = 35
             };
 
